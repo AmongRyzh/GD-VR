@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78796ca932a73834d93d259e1ebf19a5, type: 3}
+  m_Name: 1_Pixelation
+  m_EditorClassIdentifier: 
+  levelName: Pixelation
+  levelFile: {fileID: 4900000, guid: 31af844ab040ba949bd4272906f2c75d, type: 3}
+  levelMusic: {fileID: 8300000, guid: 8f10b96c2d7d28944b15202dc25b2a4e, type: 3}
+  coins:
+  - {fileID: 11400000, guid: e8f735e58919c32419704292482fe5de, type: 2}
+  - {fileID: 11400000, guid: 2626280c8844dc04f8998b282fe2248b, type: 2}

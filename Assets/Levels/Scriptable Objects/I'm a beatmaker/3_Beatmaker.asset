@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78796ca932a73834d93d259e1ebf19a5, type: 3}
+  m_Name: 3_Beatmaker
+  m_EditorClassIdentifier: 
+  levelName: I'm a beatmaker
+  levelFile: {fileID: 4900000, guid: 0c92d77746337d644ac79eab2d3c7bad, type: 3}
+  levelMusic: {fileID: 8300000, guid: 05920adb08d4f8847b959babaf155038, type: 3}
+  coins:
+  - {fileID: 11400000, guid: a0124fca971428e48ae60b8a4bae3a60, type: 2}
+  - {fileID: 11400000, guid: 0c5cc077e02796d4986cc6af2a6a7f2c, type: 2}
